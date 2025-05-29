@@ -11,7 +11,7 @@ This project analyzes health data to identify key intervention and policy develo
 - **Regional Policies:** Tailor solutions to specific regional patterns, potentially visualized through heat maps (as referenced in the image).
 - **Future Monitoring:** Tracking trends in both chronic and communicable diseases to adapt strategies over time.
 
-## **Key Recommendations (Based on the image)**
+## **Key Recommendations**
 
 - **Targeted Programs:** Focus resources and interventions on countries experiencing the highest burden of specific diseases. This targeted approach aims to maximize impact and efficiency.
 
